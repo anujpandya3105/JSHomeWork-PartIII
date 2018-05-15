@@ -1,1 +1,3 @@
 # JSHomeWork-PartIII
+
+PAGINATION
